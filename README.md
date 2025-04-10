@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Vinicius Rodrigues
 
 - 🔭 I’m currently working on 2 projects related with regression
-- 🌱 I’m currently learning Data Science on DataScienceAcademy.com.br and Analytics with Google
+- 🌱 Data Scientist from DataScienceAcademy; Analytics with Google; Postgraduate in Data Science and Analytics from PUC - RJ 
 - 🤔 I’m looking for help with Statistics and Programming Languages
 - 💬 Ask me about my experience of changing carrier path from Enviromental Engineer to Tech
 - 📫 How to reach me: vinicius.matos.r@gmail.com; www.linkedin.com/in/viniciusmrodrigues
