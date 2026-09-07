@@ -1,16 +1,8 @@
-### Hi there 👋 I am Vinicius Rodrigues
+### Hi, I'm Vinicius 👋
 
-- 🔭 I’m currently working on 2 projects related with regression
-- 🌱 Data Scientist from DataScienceAcademy; Analytics with Google; Postgraduate in Data Science and Analytics from PUC - RJ 
-- 🤔 I’m looking for help with Statistics and Programming Languages
-- 💬 Ask me about my experience of changing carrier path from Enviromental Engineer to Tech
-- 📫 How to reach me: vinicius.matos.r@gmail.com; www.linkedin.com/in/viniciusmrodrigues
-- ⚡ Fun fact: love nature | played drums in another life | growing strong with callistenics
+**Analytics Engineer** bridging environmental engineering and data — turning messy operational and regulatory data into governed, decision-ready systems for energy, mining, and ESG-driven organizations.
 
-<div>
-  <a href="www.linkedin.com/in/viniciusmrodrigues">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusMRod&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMRod&layout=compact&langs_count=16&theme=dark"/>
-</div>
-
-
+- 🔧 Core stack: SQL, PostgreSQL, Power BI, Python, R, Azure
+- 🌱 Currently working through the dbt / Azure / Databricks certification track
+- 🎓 Background: Environmental Engineering + MSc Sustainable Energy (ISEP, Portugal) + Postgrad Data Science (PUC-Rio)
+- 📫 [LinkedIn](https://www.linkedin.com/in/viniciusmrodrigues) · vinicius.matos.r@gmail.com
